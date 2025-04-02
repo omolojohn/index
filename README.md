@@ -83,5 +83,5 @@
 - [✅] Ensure all interactive elements work on touchscreen devices.  
 
 ## Key
-✅ - The ones I can do.
-☑️ -The ones I can do research on.
+ .✅ - The ones I can do.
+ .☑️ -The ones I can do research on.
